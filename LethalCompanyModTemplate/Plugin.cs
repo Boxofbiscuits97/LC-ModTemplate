@@ -17,9 +17,9 @@ namespace $safeprojectname$
         public const string MODVERSION = "1.0.0";
 
         private readonly Harmony harmony = new Harmony(MODGUID);
-        private static $safeprojectname$Base Instance;
+        public static $safeprojectname$Base Instance;
 
-        internal ManualLogSource logger = BepInEx.Logging.Logger.CreateLogSource(MODNAME);
+        public static ManualLogSource logger;
 
         void Awake()
         {
