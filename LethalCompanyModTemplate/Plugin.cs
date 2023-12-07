@@ -19,7 +19,7 @@ namespace $safeprojectname$
         private readonly Harmony harmony = new Harmony(MODGUID);
         public static $safeprojectname$Base Instance;
 
-        public static ManualLogSource logger;
+        public internal ManualLogSource logger;
 
         void Awake()
         {
