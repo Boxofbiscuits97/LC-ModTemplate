@@ -5,6 +5,8 @@
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>
     </ProjectSubType>
+    <LanguageTag>C#</LanguageTag>
+    <ProjectTypeTag>Boxofbiscutis97</ProjectTypeTag>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>LC-Template</DefaultName>
