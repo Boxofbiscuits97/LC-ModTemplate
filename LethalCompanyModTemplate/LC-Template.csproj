@@ -30,7 +30,7 @@
         <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies" Version="1.0.2" PrivateAssets="all"/>
     </ItemGroup>
     <ItemGroup>
-      <ProjectItem Include="Plugin.cs" />
+      <None Include="Plugin.cs" />
       <Folder Include="Patches\" />
     </ItemGroup>
 </Project>
