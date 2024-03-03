@@ -1,3 +1,6 @@
+> [!CAUTION] 
+> This package is now outdated, please go here for an [updated version](https://github.com/Xilophor/Lethal-Company-Mod-Templates)
+
 # LC-ModTemplate
 I Template I made for Lethal Company Modding
 
